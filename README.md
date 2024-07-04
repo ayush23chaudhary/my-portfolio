@@ -1,1 +1,3 @@
-# portfolio
+Portfolio
+
+A modern, responsive personal portfolio website showcasing the developer's skills and projects. It integrates both basic and advanced HTML and CSS concepts for a professional online presence. Features Home Section Basic: Semantic HTML, headings, paragraphs, links, and images. Advanced: Flexbox layout, Google Fonts, CSS animations, and media queries. About Section Basic: Text content with headings and paragraphs. Advanced: CSS Grid for layout, hover effects, and responsive design. Projects Section Basic: Lists and image galleries. Advanced: CSS transitions, overlays, and tooltips. Contact Section Basic: Forms with labels and inputs. Advanced: Custom form styling, validation, and interactive elements.
